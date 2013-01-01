@@ -1,0 +1,11 @@
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\obj\x86\Debug\LifeProject.exe
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\obj\x86\Debug\LifeProject.pdb
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\bin\Debug\LifeProject.exe
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\bin\Debug\LifeProject.pdb
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\obj\x86\Debug\LifeProject.Form2.resources
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\obj\x86\Debug\LifeProject.Properties.Resources.resources
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\obj\x86\Debug\LifeProject.Form3.resources
+C:\Documents and Settings\kiselev_kv\Мои документы\Visual Studio 2010\Projects\LifeProject\LifeProject\obj\x86\Debug\LifeProject.Form1.resources
